@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "roxyon": {
+      "type": "http",
+      "url": "https://mcp.roxyon.com/mcp"
+    }
+  }
+}

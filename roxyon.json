@@ -1,0 +1,12 @@
+{
+  "name": "roxyon-template-laravel",
+  "host": "my-laravel.roxyon.com",
+  "folder": "",
+  "runtime": "php",
+  "runtimeVersion": "8.4",
+  "preset": "php",
+  "kind": "app",
+  "build": "",
+  "start": "bash start.sh",
+  "public": true
+}
